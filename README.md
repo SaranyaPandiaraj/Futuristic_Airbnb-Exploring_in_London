@@ -14,6 +14,10 @@ Insideairbnb.com – London, England, United Kingdom (http://insideairbnb.com/ge
 
 Ø Sourced from publicly available information in the Airbnb Site
 
+## Dashboard Link
+
+https://public.tableau.com/profile/saranya4219#!/vizhome/Futuristic_Airbnb_London/FuturisticAirbnbStory?publish=yes
+
 ## Futuristic Airbnb
 
 ![Overview Airbnb](https://github.com/SaranyaPandiaraj/Futuristic_Airbnb-Exploring_in_London/blob/main/Dashboard%20Images/Overview_Airbnb.png)
